@@ -143,7 +143,7 @@
 }
 
 .digits {
-  margin: 0 auto;
+  margin: 0 auto 100px;
 }
 
 .section-title {
@@ -166,7 +166,7 @@
 
 .table {
   width: 1100px;
-  margin: 0 auto 100px;
+  margin: 0 auto 0;
   padding-left: 0;
   display: flex;
   flex-wrap: wrap;
@@ -299,6 +299,7 @@
   width: 636px;
   position: absolute;
   z-index: -1;
+  top: -24px; /* I couldn't find the top coordinate anywhere in the brief, so I calculated this myself */
   right: -124px;
 }
 
