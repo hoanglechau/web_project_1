@@ -12,7 +12,7 @@ The project is focused on:
 - Embedding content
 - Animation and Transform with CSS
 
-The website has a header, a footer, and 9 sections in the main content. There are two animations in the header and kaufman blocks. There are clickable links in the header, feynman, khan, resources, and footer blocks. All links have smooth transitions into semi-transparent opacity when hovered on. All links open new websites when clicked on. There are two embedded videos in the video block, and they can be played directly on the website.  
+The website has a header, a footer, and 9 sections in the main content. There are two animations in the header and kaufman blocks. There are clickable links in the header, feynman, khan, resources, and footer blocks. All links have smooth transitions into semi-transparent opacity when hovered on, and open new websites when clicked on. There are two embedded videos in the video block, and they can be played directly on the website.  
 
 ## Plans for finalizing the project
 The project was completed on 24 August 2021
