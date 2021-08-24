@@ -1,0 +1,7 @@
+.feynman {
+  min-height: 790px;
+  margin: 0 auto 0;
+  position: relative;
+  background-color: #f2f2f2;
+  z-index: 1;
+}

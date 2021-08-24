@@ -1,0 +1,9 @@
+.cards__item {
+  width: 240px;
+  list-style: none;
+  text-align: center;
+}
+
+.cards__item:not(.cards__item:nth-child(3)) {
+  margin-right: 100px;
+}
