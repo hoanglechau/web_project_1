@@ -7,9 +7,6 @@
   font-weight: normal;
   z-index: 99999;
   transition: opacity 0.5s;
-}
-
-.feynman__link:link {
   text-decoration: none;
   color: #2f80ed;
 }

@@ -1,8 +1,5 @@
 .header__link {
   transition: opacity 0.5s;
-}
-
-.header__link:link {
   text-decoration: none;
   color: #2f80ed;
 }
