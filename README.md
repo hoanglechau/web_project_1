@@ -16,3 +16,6 @@ The website has a header, a footer, and 9 sections in the main content. There ar
 
 ## Plans for finalizing the project
 The project was completed on 24 August 2021
+
+## GitHub Pages link
+https://hoanglechau.github.io/web_project_1/
